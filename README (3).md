@@ -1,4 +1,4 @@
-# Proje 6 Kılavuz
+# Proje 9 Kılavuz
 ![](https://github.com/ilkanaydogan/p6/blob/main/p6image/register_login_page6.png)
 ### Eğer hesabınız yoksa “Create Your Account” butonuna basıp sisteme kayıt yapabilir, giriş sekmesine ilerleyebilirsiniz. Eğer hesabınız varsa “Login!” butonuna basıp sisteme giriş yapabilirsiniz.
 ![](https://github.com/ilkanaydogan/p6/blob/main/p6image/messagebox6.png)
